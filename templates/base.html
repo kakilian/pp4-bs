@@ -25,6 +25,10 @@
 <body>
     {% include 'added/header.html' %}
 
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
     {% include 'added/footer.html' %}
 
 

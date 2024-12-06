@@ -80,11 +80,14 @@ Responsive Mockup
 
 ---
 
-## Features ![Features]()
+## Features [!Features]()
+
+## Font [!Font]('https://fonts.googleapis.com/css2?family=GFS+Didot&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
 
 ---
 
-## Installation ![Installation]()
+## Installation [!Installation]()
 
 ---
 
